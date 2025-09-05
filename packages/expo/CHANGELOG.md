@@ -6,6 +6,8 @@
 
 ### 🎉 New features
 
+- Remove `ExpoAppDelegate` inheritance requirement in ExpoReactNativeFactory ([#39417](https://github.com/expo/expo/pull/39417) by [@gabrieldonadel](https://github.com/gabrieldonadel))
+
 ### 🐛 Bug fixes
 
 - [Android] allow `expo/fetch` sending a `POST`, `PATCH` or `PUT` request without a body. ([#39363](https://github.com/expo/expo/pull/39363) by [@julian-dueck](https://github.com/julian-dueck))
