@@ -6,11 +6,22 @@
 
 ### 🎉 New features
 
-- [iOS] Add `foregroundStyle` modifier, deprecated `foregroundColor` ([#39183](https://github.com/expo/expo/pull/39183) by [@hirbod](https://github.com/hirbod))
-
 ### 🐛 Bug fixes
 
+- [iOS] Fix tvOS compilation. ([#39542](https://github.com/expo/expo/pull/39542) by [@douglowder](https://github.com/douglowder))
+
 ### 💡 Others
+
+## 0.2.0-beta.0 — 2025-09-10
+
+### 🎉 New features
+
+- [iOS] Add `foregroundStyle` modifier, deprecated `foregroundColor` ([#39183](https://github.com/expo/expo/pull/39183) by [@hirbod](https://github.com/hirbod))
+- [iOS] Add `matchedGeometryEffect` modifier and `ZStack` ([#39463](https://github.com/expo/expo/pull/39463) by [@nishan](https://github.com/intergalacticspacehighway))
+
+### 💡 Others
+
+- Use typescript files as source and add `packages:exports`. ([#39377](https://github.com/expo/expo/pull/39377) by [@kudo](https://github.com/kudo))
 
 ## 0.2.0-alpha.9 — 2025-09-03
 
