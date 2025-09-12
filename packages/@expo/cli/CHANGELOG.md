@@ -6,7 +6,7 @@
 
 ### 🎉 New features
 
-- Added support for cli command extension in expo modules
+- Added support for cli command extension in expo modules ([#39598](https://github.com/expo/expo/pull/39598) by [@chrfalch](https://github.com/chrfalch))
 
 ### 🐛 Bug fixes
 
