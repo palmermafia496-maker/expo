@@ -6,6 +6,8 @@
 
 ### 🎉 New features
 
+- Added support for cli command extension in expo modules
+
 ### 🐛 Bug fixes
 
 ### 💡 Others

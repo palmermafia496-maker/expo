@@ -6,6 +6,8 @@
 
 ### 🎉 New features
 
+- Added support for cli command extensions in the interactive devtools menu
+
 ### 🐛 Bug fixes
 
 ### 💡 Others
