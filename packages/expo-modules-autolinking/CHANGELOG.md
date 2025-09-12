@@ -6,7 +6,7 @@
 
 ### 🎉 New features
 
-- Added support for cli command extensions in the interactive devtools menu
+- Added support for cli command extensions in the interactive devtools menu ([#39598](https://github.com/expo/expo/pull/39598) by [@chrfalch](https://github.com/chrfalch))
 
 ### 🐛 Bug fixes
 
